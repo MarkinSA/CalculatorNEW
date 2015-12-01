@@ -16,8 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-}
 
     int backgRed=50, backgGreen=218, backgBlue=218, titleRed=50, titleGreen=14, titleBlue=146;
     
